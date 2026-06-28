@@ -4,6 +4,8 @@
 **Plataforma:** PnetLab  
 **Dispositivo:** FortiGate-VM64-KVM v7.0.3  
 
+Enlace video demostrativo: https://www.youtube.com/watch?v=pGFLhmqt7_E
+
 ---
 
 ## Objetivo de la Red
